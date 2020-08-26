@@ -38,7 +38,7 @@ twitterAccount: "@the405found"
 
 # Documents
 c4pUrl: "https://forms.gle/5j7HFvsTEPQAcbc86"
-c4sponsorsUrl: "/assets/405Found_Sponsorship.pdf"
+c4sponsorsUrl: "/assets/The405Found_Sponsorship.pdf"
 
 # Navigation
 navigationLinks:
@@ -57,12 +57,13 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "The 405 Found: <typeout> 2020"
-eventDate: "October 22, 2020"
+eventDate: "October 22, 2020   7:00-9:00pm"
 typeoutTextValues: '"", "Talent", "Opportunity", "Potential", "Recruit"'
 typeoutFallback: "Talent"
 heroButtons:
  - {link: "https://forms.gle/5j7HFvsTEPQAcbc86", text: "Become a Workshop Presenter or Volunteer"}
- - {link: "http://www.eventbrite.com", text: "Register"}
+ - {link: "/assets/The405Found_Sponsorship.pdf", text: "Sponsor Event"}
+ - {link: "http://www.eventbrite.com", text: "Register to Attend"}
 
 # About Block
 aboutTitle: "About The 405 Found"
