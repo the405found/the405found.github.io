@@ -70,7 +70,7 @@ aboutEvent: "
 <p> With Greater Boston seeing <a href='https://www.bostonindicators.org/reports/report-website-pages/changing-faces-of-greater-boston/changing-faces-of-greater-boston-report' target='_blank'>diversity on the rise</a> and being the <a href='https://www.americaninno.com/boston/report-boston-is-the-third-fastest-growing-tech-hub/' target='_blank'>third fastest growing tech hub</a> according to a 2019 report from Indeed Hiring Lab, why does minority representation in the tech sector remain low? 
 <p> According to <a href='https://www.masstlc.org/state-tech-economy19-dl/' target='_blank'>The State of the Massachusetts Tech Economy</a> 2019 report released by the Massachusetts Technology Leadership Technology (MassTLC), about one-third of all workers are women, 5 percent of tech workers are Black, and 7 percent are Latinx. 
 <p> As paraphrased from social entrepreneur Leila Janah:
-<b><i><blockquote>Talent is everywhere, opportunity is not.</blockquote></i></b> 
+<center><b><i><blockquote>Talent is everywhere, opportunity is not.</blockquote></i></b></center> 
 <p> As such, <a href='https://www.codeforboston.org/' target='_blank'><b>Code for Boston</b></a> and <a href='https://hireforheart.com/' target='_blank'><b>Hire for Heart</b></a> are partnering to organize this event to gather diverse talent in the Greater Boston area and create opportunities for starting and enhancing their career in tech."
 
 aboutBlock:
@@ -216,6 +216,15 @@ teamBlockTitle: "About Us"
 aboutUs: "<a href='https://www.codeforboston.org/'><b>Code for Boston</b></a> is a volunteer Civic Technology meetup. We are part of the Code for America Brigade network, and are made up of developers, designers, data geeks, citizen activists, and many others who use creative technology to solve civic and social problems.
 <br><br>
 <a href='https://hireforheart.com/' target='_blank'><b>Hire for Heart</b></a> works to fight bias, create opportunities, and bridge the gap for those underrepresented in technology."
+teamBlockEventTitle: "Why the name The 405 Found?"
+teamAboutEvent: "<p>‘404 not found’ is a common HTTP response indicating that the browser requested an invalid resource, typically because the resource doesn’t exist. Less well known is ‘405 not found,' which indicates that the browser requested a valid resource using an invalid HTTP method.
+<p>When applied to the context of hiring and promoting minority talent:
+<ul>
+  <li><b>404 not found</b> = “There isn’t enough diverse talent out there to adequately fill our tech roles.”</li>
+  <li><b>405 not found</b> = “The methods, frameworks, and rubrics currently used to identify diverse candidates for hire and promotion aren’t working.</li>
+  <li><b>405 found</b> = “Diverse talent is all around us when we use different methods, frameworks, and rubrics that assess people’s competencies and potential to excel in these tech roles.”</li>
+<ul>
+"
 
 # Logistics Find Way Block
 #findWayTitle: "Find your way here"
