@@ -13,4 +13,4 @@
 - 
   group: "Bronze"
   elements: 
-    - {name: "Code for Boston", description: "Code for Boston - a volunteer Civic Technology meetup using creative technology to solve civic and social problems.", link: "https://www.codeforboston.org/", imageUrl: "codeforboston.png"}
+    - {name: "Code for Boston", description: "Code for Boston - a volunteer Civic Technology meetup using creative technology to solve civic and social problems.", imageUrl: "codeforboston.png"}

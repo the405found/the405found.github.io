@@ -67,9 +67,11 @@ heroButtons:
 # About Block
 aboutTitle: "About The 405 Found"
 aboutBlock:
- - {title: "Panel", image: "panel.jpg", text: "Panelists with varying backgrounds and experiences in technical and non-SWE (non-software-engineering) positions." }
- - {title: "Workshops", image: "workshop.jpg", text: "Roster of workshops to attend for professionals at varying stages in their careers with different needs." }
+ - {title: "Panel", image: "panel.jpg", text: "Panelists with varying backgrounds and experiences in technical and non-SWE (non-software-engineering) positions will speak about how they identified and created opportunities to either start or enhance their own tech careers." }
+ - {title: "Workshops", image: "workshop.jpg", text: "Professionals can choose from a roster of workshops to attend that are relevant to varying career stages because of the different needs." }
  - {title: "1-on-1 Guidance", image: "one-on-one.jpg", text: "Volunteers are ready to help in a more customized way, whether you're looking for someone to provide feedback on your resume, conduct a mock interview, or wanted to chat one-on-one for career guidance (e.g. career transition)." }
+ - {title: "Exhibit Hall", image: "one-on-one.jpg", text: "Volunteers are ready to help in a more customized way, whether you're looking for someone to provide feedback on your resume, conduct a mock interview, or wanted to chat one-on-one for career guidance (e.g. career transition)." }
+
 
  # Statistic Block
 #statisticBlockImage: "statistic.jpg"
