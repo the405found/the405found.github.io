@@ -3,6 +3,9 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.aboutTitle }}</h3>
+            <div class="col-lg-10 col-lg-offset-1">
+                <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0" style="text-align:left">{{ site.aboutEvent }}</p>
+            </div>
             <div class="row about-details">
                 {% assign animationDelay = 0 %}
                 {% for about in site.aboutBlock %}
