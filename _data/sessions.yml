@@ -1,0 +1,67 @@
+-
+  id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 503
+  title: "Lunch Break"
+  place: "Dining room"
+  service: true
+-
+  id: 001
+  title: "Panel: Leveling Up Our Tech Career"
+  description: 'With Greater Boston seeing <a href="https://www.bostonindicators.org/reports/report-website-pages/changing-faces-of-greater-boston/changing-faces-of-greater-boston-report" target="_blank">diversity on the rise</a> and being the <a href="https://www.americaninno.com/boston/report-boston-is-the-third-fastest-growing-tech-hub/" target="_blank">third fastest growing tech hub</a> according to a 2019 report from Indeed Hiring Lab, why does minority representation in the tech sector remain low? <p>According to <a href="https://www.masstlc.org/state-tech-economy19-dl/" target="_blank">The State of the Massachusetts Tech Economy</a> 2019 report released by the Massachusetts Technology Leadership Technology (MassTLC), about one-third of all workers are women, 5 percent of tech workers are Black, and 7 percent are Latinx. 
+  
+  <p>As paraphrased from social entrepreneur Leila Janah:
+  
+  <blockquote><center>Talent is everywhere, opportunity is not.</center></blockquote>
+  
+  <p>Panelists will speak about challenges they have faced to break into, advance in, and stay in tech. They will also discuss identifying, creating, and taking advantage of opportunities to reach where they are now and further enhance their career in tech.'
+  subtype: keynote
+  speakers: [3, 4, 5, 6, 7, 8]
+#  language: en
+#  complexity: "Intermediate"
+#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 002
+  title: "What's your career story?"
+  description: "Career conversations are tough. Whether you're making a career transition or need help researching career options, #CMD can help."
+  subtype: workshop
+  speakers: [9]
+  presentation: "https://chocolatemilkdiplomacy.com/uploads/1/3/1/7/131752130/cmd_career_research_packet.pdf"
+  video: "//www.youtube.com/embed/rPgV_m4IsJ8"
+-
+  id: 003
+  title: "Build Your LinkedIn Presence"
+  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  subtype: presentation
+  speakers: [10]
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+  id: 004
+  title: "Example workshop"
+  description: "Workshop description goes here"
+  subtype: presentation
+  speakers: [10]
+  presentation: "https://chocolatemilkdiplomacy.com/uploads/1/3/1/7/131752130/cmd_career_research_packet.pdf"
+  video: "//www.youtube.com/embed/rPgV_m4IsJ8"
+-
+  id: 005
+  title: "Resume Review"
+  description: "Looking for feedback on your resume? Contact any one of these volunteers!"
+  subtype: workshop
+  speakers: [1,2,3,4,5,6,7,8]
+-
+  id: 006
+  title: "Mock Interview"
+  description: "Looking to do a mock interview? Contact any one of these volunteers!"
+  subtype: workshop
+  speakers: [5,6,7,8]
+-
+  id: 007
+  title: "Career Conversations"
+  description: "Looking to have a 1-on-1 conversation about your career? Contact any one of these volunteers!"
+  subtype: workshop
+  speakers: [1,2,3,4]

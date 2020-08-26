@@ -1,0 +1,9 @@
+- 
+  group: "Main Organizers"
+  elements: 
+    - {name: "Code for Boston", description: "Code for Boston - a volunteer Civic Technology meetup using creative technology to solve civic and social problems.", link: "https://www.codeforboston.org/", imageUrl: "codeforboston.png"}
+    - {name: "Hire for Heart", description: "Hire for Heart - working to fight bias, create opportunities, and bridge the gap for those underrepresented in technology", link: "http://www.hireforheart.com", imageUrl: "hireforheart.png"}
+- 
+  group: "Community Partners"
+  elements: 
+    - {name: "Untapped Potential Boston", description: "Untapped Potential Boston - working to increase number of non-BA workers in the innovation economy", link: "https://www.untappedpotentialboston.com/", imageUrl: "UntappedPotentialBoston.png"}

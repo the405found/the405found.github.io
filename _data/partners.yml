@@ -1,0 +1,16 @@
+- 
+  group: "Platinum"
+  elements: 
+    - {name: "Code for Boston", description: "Code for Boston - a volunteer Civic Technology meetup using creative technology to solve civic and social problems.", link: "https://www.codeforboston.org/", imageUrl: "codeforboston.png"}
+- 
+  group: "Gold"
+  elements: 
+    - {name: "Code for Boston", description: "Code for Boston - a volunteer Civic Technology meetup using creative technology to solve civic and social problems.", link: "https://www.codeforboston.org/", imageUrl: "codeforboston.png"}
+- 
+  group: "Silver"
+  elements: 
+    - {name: "Code for Boston", description: "Code for Boston - a volunteer Civic Technology meetup using creative technology to solve civic and social problems.", link: "https://www.codeforboston.org/", imageUrl: "codeforboston.png"}
+- 
+  group: "Bronze"
+  elements: 
+    - {name: "Code for Boston", description: "Code for Boston - a volunteer Civic Technology meetup using creative technology to solve civic and social problems.", link: "https://www.codeforboston.org/", imageUrl: "codeforboston.png"}

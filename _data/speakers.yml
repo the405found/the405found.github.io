@@ -1,0 +1,104 @@
+- 
+  id: 3
+  name: "Rizel"
+  surname: "Bobb-Semple"
+  company: "Software Developer, Hi Marley"
+  title: "Software Developer at Hi Marley"
+  bio: "Bio goes here"
+  thumbnailUrl: NP.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rizel-bobb-semple/"}
+- 
+  id: 4
+  name: "Gwendolyn"
+  surname: "McCoy"
+  company: "Senior Consultant, Diversity@Workplace Consulting Group"
+  title: "Sr Consultant at Diversity@Workplace Consulting Group | Principal at MS Creative Group/Make Scents Floral Design"
+  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
+  thumbnailUrl: NP.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gmccoymba/"}
+ 
+- 
+  id: 5
+  name: "Nagela"
+  surname: "Nukuna"
+  company: "MPP/MBA Candidate, Harvard KSG & MIT Sloan"
+  title: "MPP/MBA Candidate at Harvard Kennedy School of Government & MIT Sloan School of Management"
+  bio: "Bio goes here."
+  thumbnailUrl: NP.jpg
+  rockstar: true
+#  ribbon: 
+#    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nagelanukuna/"}
+- 
+  id: 6
+  name: "Pamela"
+  surname: "Rosario Pérez"
+  company: "Program Manager, Customer Experience Strategy, Rapid7"
+  title: "Program Manager, Customer Experience Strategy, Rapid7"
+  bio: "Bio goes here"
+  thumbnailUrl: NP.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pmrosarioperez/"}
+- 
+  id: 7
+  name: "Gabriel"
+  surname: "Vallangca"
+  company: "iOS Tech Lead, Wayfair"
+  title: "iOS Tech Lead at Wayfair"
+  bio: "Bio goes here."
+  thumbnailUrl: NP.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gabrielvallangca/"}
+- 
+  id: 8
+  name: "Nigel"
+  surname: "Jacob"
+  company: "Co-Founder, New Urban Mechanics"
+  title: "Co-Founder at City of Boston's New Urban Mechanics"
+  bio: "Bio goes here."
+  thumbnailUrl: NP.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nsjacob/"}
+- 
+  id: 9
+  name: "Alex"
+  surname: "Berry"
+  company: "Founder, Chocolate Milk Diplomacy"
+  title: "Founder and Community Facilitator at Chocolate Milk Diplomacy"
+  bio: "Bio goes here."
+  thumbnailUrl: NP.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/alexberrycmd/"}
+    - {name: "site", link: "https://chocolatemilkdiplomacy.com/index.html"}
+- 
+  id: 10
+  name: "Angela"
+  surname: "Pitter"
+  company: "Founder and CEO, LiveWire Collaborative"
+  title: "Founder and CEO at LiveWire Collaborative"
+  bio: "Bio goes here."
+  thumbnailUrl: NP.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/angelapitter/"}
+- 
+  id: 11
+  name: "Example"
+  surname: "Speaker"
+  company: "Title, Company"
+  title: "Longer title for role/company; can have additional roles and organiations you might be part of"
+  bio: "Bio goes here."
+  thumbnailUrl: NP.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/angelapitter/"}
