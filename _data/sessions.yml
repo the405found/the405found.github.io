@@ -41,12 +41,12 @@
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
-  title: "Example workshop"
-  description: "Workshop description goes here"
+  title: "Future-proofing Your Career"
+  description: "skills to learn now to be competitive later "
   subtype: presentation
-  speakers: [10]
-  presentation: "https://chocolatemilkdiplomacy.com/uploads/1/3/1/7/131752130/cmd_career_research_packet.pdf"
-  video: "//www.youtube.com/embed/rPgV_m4IsJ8"
+  speakers: [11]
+  presentation: ""
+  video: ""
 -
   id: 005
   title: "Resume Review"
