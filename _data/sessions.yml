@@ -53,13 +53,13 @@
   title: "Resume Review"
   description: "Looking for feedback on your resume? Contact any one of these volunteers!"
   subtype: workshop
-  speakers: [1,2,3,4,5,6,7,8]
+  speakers: [1,2,3,4,5,7,8]
 -
   id: 006
   title: "Mock Interview"
   description: "Looking to do a mock interview? Contact any one of these volunteers!"
   subtype: workshop
-  speakers: [5,6,7,8]
+  speakers: [5,7,8]
 -
   id: 007
   title: "Career Conversations"

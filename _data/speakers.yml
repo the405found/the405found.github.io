@@ -39,13 +39,15 @@
   id: 6
   name: "Pamela"
   surname: "Rosario Pérez"
-  company: "Program Manager, Customer Experience Strategy, Rapid7"
-  title: "Program Manager, Customer Experience Strategy, Rapid7"
-  bio: "Bio goes here"
-  thumbnailUrl: NP.jpg
+  company: "PM, CX Strategy<br>
+CEO + Founder, Rocena RE Strategies"
+  title: "Program Manager, Customer Experience Strategy<br>
+CEO + Founder, Rocena Real Estate Strategies"
+  bio: "Pamela is an award-winning business leader in the areas of customer experience strategy, diversity & inclusion within the high tech industry. Her commitment to bridging the gap between the innovation economy and historically marginalized communities led her to launch initiatives such as the CyberWarrior Academy, Massachusetts' first certified cybersecurity and machine learning apprenticeship for women, veterans, and people of color. This, together with her passion for real estate investing led her to found Rocena Real Estate Strategies, an investment firm that teaches Black and Latinx youth how to build wealth through real estate and offers scholarships to high school students looking to drive change in their communities. She also serves on the board of Artisan’s Asylum, a nonprofit maker space in the greater Boston area. Her accolades include: El Mundo's 30 under 30 Most Influential Latino Leaders Award, Hubspot's L4 Services Award, and Chica Project's Mentor of the Year Award. Her unconventional upbringing and immigration story are covered in <i>The Formula: Unlocking the Secrets to Raising Highly Successful Children</i> by Harvard economist Ronald Ferguson and award-winning journalist Tatsha Robertson. Today, you can find Pamela having a blast traveling the world in her role as Rapid7's Program Manager of Customer Experience Strategy."
+  thumbnailUrl: PamelaRosarioPerez.jpeg
   rockstar: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pmrosarioperez/"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/pmrosarioperez/"}
 - 
   id: 7
   name: "Gabriel"
