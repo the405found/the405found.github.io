@@ -93,12 +93,12 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/angelapitter/"}
 - 
   id: 11
-  name: "Example"
-  surname: "Speaker"
-  company: "Title, Company"
+  name: "Dr. Brandi"
+  surname: "Baldwin"
+  company: "Founder and CEO, Millennial Ventures Holdings"
   title: "Longer title for role/company; can have additional roles and organiations you might be part of"
   bio: "Bio goes here."
   thumbnailUrl: NP.jpg
   rockstar: false
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/angelapitter/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/thedoctorbrandi/"}

@@ -57,7 +57,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "The 405 Found: <typeout> 2020"
-eventDate: "October 22, 2020   7:00-9:00pm"
+eventDate: "October 15, 2020   7:00-9:00pm"
 typeoutTextValues: '"", "Talent", "Opportunity", "Potential", "Recruit"'
 typeoutFallback: "Talent"
 heroButtons:
@@ -72,12 +72,13 @@ aboutEvent: "
 <p> According to <a href='https://www.masstlc.org/state-tech-economy19-dl/' target='_blank'>The State of the Massachusetts Tech Economy</a> 2019 report released by the Massachusetts Technology Leadership Technology (MassTLC), about one-third of all workers are women, 5 percent of tech workers are Black, and 7 percent are Latinx. 
 <p> As paraphrased from social entrepreneur Leila Janah:
 <center><b><i><blockquote>Talent is everywhere, opportunity is not.</blockquote></i></b></center> 
-<p> As such, <a href='https://www.codeforboston.org/' target='_blank'><b>Code for Boston</b></a> and <a href='https://hireforheart.com/' target='_blank'><b>Hire for Heart</b></a> are partnering to organize this event to gather diverse talent in the Greater Boston area and create opportunities for starting and enhancing their career in tech."
+<p> As such, <a href='https://www.codeforboston.org/' target='_blank'><b>Code for Boston</b></a> and <a href='https://hireforheart.com/' target='_blank'><b>Hire for Heart</b></a> are partnering to organize this event to gather diverse talent in the Greater Boston area and create opportunities for starting and enhancing their career in tech." <a href="https://the405found.github.io/the405found.github.io/schedule/">Click here</a> to view our event schedule.
+
 
 aboutBlock:
  - {title: "Panel", image: "panel.jpg", text: "Panelists with varying backgrounds and experiences in technical and non-SWE (non-software-engineering) positions will speak about how they identified and created opportunities to either start or enhance their own tech careers." }
  - {title: "Workshops", image: "workshop.jpg", text: "Professionals can choose from a roster of workshops to attend that are relevant to varying career stages because of the different needs." }
- - {title: "1-on-1 Guidance", image: "one-on-one.jpg", text: "Volunteers are ready to help in a more customized way, whether you're looking for someone to provide feedback on your resume, conduct a mock interview, or wanted to chat one-on-one for career guidance (e.g. career transition)." }
+ - {title: "1-on-1 Guidance", image: "one-on-one.jpg", text: "Volunteers are ready to help in a more personalized way, whether you're looking for someone to provide feedback on your resume, conduct a mock interview, or wanted to chat one-on-one for career guidance (e.g. career transition)." }
  - {title: "Exhibit Hall", image: "hiring.jpg", text: "There will be space for speaking with companies that are hiring or training providers and others providing resources, as if you were at a real exhibition hall." }
 
 
