@@ -54,8 +54,10 @@ CEO + Founder, Rocena Real Estate Strategies"
   surname: "Vallangca"
   company: "iOS Tech Lead, Wayfair"
   title: "iOS Tech Lead at Wayfair"
-  bio: "Bio goes here."
-  thumbnailUrl: NP.jpg
+  bio: "Gabe (he/him/his) is an iOS Engineer and lead of the Registry App Team at Wayfair. He earned a bachelor’s degree in Computer Science with a minor in Asian American Studies at University of Maryland, College Park. As a Filipino immigrant he became passionate about advocating for underrepresented communities which led him in becoming an ally and a leader of multiple AAPI (Asian American Pacific Islander) organizations in the DC/Maryland/Virginia area. As a leader he organized events and conferences that provided representation, advocacy and opportunities for AAPI to voice their experiences that shaped their identities.<br>
+
+<p>In his spare time, he enjoys working on personal projects where he incorporates newly released iOS tech to further hone his skills, supporting the fight against social injustices, go on lengthy hikes and endlessly adoring pugs."
+  thumbnailUrl: GabrielVallangca.png
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/gabrielvallangca/"}

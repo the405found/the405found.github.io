@@ -59,10 +59,10 @@
   title: "Mock Interview"
   description: "Looking to do a mock interview? Contact any one of these volunteers!"
   subtype: workshop
-  speakers: [5,7,8]
+  speakers: [5,8]
 -
   id: 007
   title: "Career Conversations"
   description: "Looking to have a 1-on-1 conversation about your career? Contact any one of these volunteers!"
   subtype: workshop
-  speakers: [1,2,3,4]
+  speakers: [1,2,3,4,7]
