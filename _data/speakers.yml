@@ -4,7 +4,7 @@
   surname: "Bobb-Semple"
   company: "Software Developer, Hi Marley"
   title: "Software Developer at Hi Marley"
-  bio: "Bio goes here"
+  bio: "TBD"
   thumbnailUrl: NP.jpg
   rockstar: true
   social: 
@@ -15,7 +15,7 @@
   surname: "McCoy"
   company: "Senior Consultant, Diversity@Workplace Consulting Group"
   title: "Sr Consultant at Diversity@Workplace Consulting Group | Principal at MS Creative Group/Make Scents Floral Design"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
+  bio: "TBD"
   thumbnailUrl: NP.jpg
   rockstar: true
   social: 
@@ -26,15 +26,18 @@
   name: "Nagela"
   surname: "Nukuna"
   company: "MPP/MBA Candidate, Harvard KSG & MIT Sloan"
-  title: "MPP/MBA Candidate at Harvard Kennedy School of Government & MIT Sloan School of Management"
-  bio: "Bio goes here."
-  thumbnailUrl: NP.jpg
+  title: " MPP/MBA Candidate at Harvard Kennedy School of Government & MIT Sloan School of Management"
+  bio: "Nagela Nukuna is a Joint Degree student at the Harvard Kennedy School and the MIT Sloan School of Management. She attended Georgia Tech for her undergraduate degree, where she studied Industrial Engineering. It was during that time that she rekindled her passion for serving her community through leadership. In the policy sphere, she's worked on a range of issues, from sexual assault on campus and higher education access for different communities, to digital government and elections security (recently published an Elections Playbook). During her time at Google, she worked in 2 functions: on the Systems & Data team, working primarily on HR processes and tools, and (2) as a Program Manager for Business Analytics in Google Cloud. Currently in grad school, Nagela is passionate about removing structural barriers and opening opportunities up for marginalized but highly talented youth. She now is focused on developing scalable solutions for social policies, and designing more equitable systems in our world today."
+  thumbnailUrl: NagelaNukuna.jpg
   rockstar: true
 #  ribbon: 
 #    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
 #    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
+    - {name: "site", link: "https://us-com-nagela.webnode.com/about-me/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/nagelanukuna/"}
+    - {name: "twitter", link: "https://twitter.com/nagelanukuna"}
+    - {name: "instagram", link: "https://www.instagram.com/nagelanukuna/"}
 - 
   id: 6
   name: "Pamela"
@@ -67,8 +70,14 @@ CEO + Founder, Rocena Real Estate Strategies"
   surname: "Jacob"
   company: "Co-Founder, New Urban Mechanics"
   title: "Co-Founder at City of Boston's New Urban Mechanics"
-  bio: "Bio goes here."
-  thumbnailUrl: NP.jpg
+  bio: "Nigel Jacob is the Co-founder of the Mayor’s Office of New Urban Mechanics, a civic innovation incubator and R&D Lab within Boston’s City Hall. Nigel’s work is about making urban life better via innovative, people-oriented applications of technology and design. Prior to joining the City of Boston in 2006, Nigel worked in a series of technology start-ups in the Boston area.
+
+<p>He was also previously the Urban Technologist in Residence at Living Cities, a philanthropic collaboration of 22 of the world’s largest foundations and financial institutions, is currently a board member at organizations such as Code For America and coUrbanize, and is an Executive-in-Residence at Boston University.
+
+<p>Nigel’s work has been written about extensively in magazines such as Wired, MIT Technology Review, Fast Company and books including The Responsive City, by Stephen Goldsmith and Susan Crawford and Smart Cities by Anthony Townsend.
+
+<p>This ground-breaking work has earned Nigel a number of awards including being named a Public Official of the year in 2011 by Governing Magazine, a Whitehouse Champion of Change and the Tribeca Disruptive Innovation award for 2012. Nigel is also a 12th level Wizard-Pirate with a special focus on causing chaos in large municipal bureaucracies via befuddlement spells."
+  thumbnailUrl: NigelJacob.png
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/nsjacob/"}
@@ -76,33 +85,73 @@ CEO + Founder, Rocena Real Estate Strategies"
   id: 9
   name: "Alex"
   surname: "Berry"
-  company: "Founder, Chocolate Milk Diplomacy"
-  title: "Founder and Community Facilitator at Chocolate Milk Diplomacy"
-  bio: "Bio goes here."
-  thumbnailUrl: NP.jpg
+  company: "CMD Community Facilitator"
+  title: "Chocolate Milk Diplomacy Career Coach & Intel Technical Program Manager"
+  bio: 'W. R. Alex Berry (call him Alex) is a Portland-based Technical Program Manager within Intel’s Global Supply Chain. He combines his corporate experience from four industries (chemical, forestry, pharmaceutical, and manufacturing), his nonprofit leadership, and his global travels to build bridges between the public and private sectors. After graduating from Georgia Tech with a B.S. in Industrial & Systems Engineering and a dual Business/Mandarin minor, Alex has dedicated the last five years to creating sustainable programming at the intersection of technology, business, and societal impact.
+
+<p>With this in mind, Alex created a social business (<a href="https://chocolatemilkdiplomacy.com/index.html" target="_blank">Chocolate Milk Diplomacy</a> - #CMD) that empowers underserved and marginalized communities with the career development support they need. His black-owned business works with students, early career professionals, and career changers on resumes and cover letters, skill mapping, interview preparation, career navigation, and more! 
+
+<p>After work, you can find Alex leading within the community - collaborating with nonprofits that support minorities, first-gen students, and those facing homelessness. A true introvert, Alex recharges by playing soccer, watching anime, and drinking chocolate milk! Alex and #CMD would love to connect with you!
+
+<p><B>One Story at a Time,
+
+<p>W. R. Alex Berry | <i>#CMD Community Facilitator</i> | <i>Intel Technical Program Manager</i>
+
+<p>Connect With Alex | <a href="https://alexberrycmd.youcanbook.me/" target="_blank"><i>alexberrycmd.youcanbook.me</i></a> | <a href="https://www.linkedin.com/in/alexberrycmd/" target="_blank"><i>Connect on LinkedIn</i></a>
+
+<p>Connect With #CMD | <a href="https://chocolatemilkdiplomacy.com/index.html" target="_blank"><b>ChocolateMilkDiplomacy.com</b></a> | <a href="https://alexberrycmd.youcanbook.me/" target="_blank">Chat with #CMD</a> | 
+
+<p>#CMD on <a href="https://www.facebook.com/ChocolateMilkDiplomacy" target="_blank">Facebook</a>, <a href="https://www.linkedin.com/company/chocolate-milk-diplomacy/" target="_blank">Linkedin</a>, <a href="https://twitter.com/CMDiplomacy" target="_blank">Twitter</a>, <a href="https://www.instagram.com/chocolatemilkdiplomacy/" target="_blank">Instagram</a>, <a href="https://www.youtube.com/channel/UCkTmunwhclU2ekjwzBOWpcg" target="_blank">Youtube</a>
+</B>'
+  thumbnailUrl: AlexBerry.jpg
   rockstar: false
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/alexberrycmd/"}
     - {name: "site", link: "https://chocolatemilkdiplomacy.com/index.html"}
+    - {name: "facebook", link: "https://www.facebook.com/ChocolateMilkDiplomacy"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/alexberrycmd/"}
+    - {name: "twitter", link: "https://twitter.com/CMDiplomacy"}
+    - {name: "youtube", link: "https://www.youtube.com/channel/UCkTmunwhclU2ekjwzBOWpcg"}
+    - {name: "instagram", link: "https://www.instagram.com/chocolatemilkdiplomacy/"}
 - 
   id: 10
   name: "Angela"
   surname: "Pitter"
-  company: "Founder and CEO, LiveWire Collaborative"
-  title: "Founder and CEO at LiveWire Collaborative"
-  bio: "Bio goes here."
-  thumbnailUrl: NP.jpg
+  company: "Founder and CEO LiveWire Collaborative"
+  title: "Founder and CEO LiveWire Collaborative, A Digital Marketing Consultancy"
+  bio: 'Angela Pitter is CEO of LiveWire Collaborative. A former engineer, Angela is now a digital marketing strategist known for building comprehensive solutions that expand and strengthen customer engagements. LiveWire Collaborative helps business owners and
+executives to tap into digital marketing solutions that unleash their brand’s full potential and to use social media to connect, collaborate, and convert their target communities. Services at LiveWire Collaborative include: Online Strategy Development and
+Implementation for mid-size businesses, Social Media Training for corporations or organizations, one-on-one Executive Coaching, Social Media Analysis, as well as Facebook Ads and Email Marketing. Additionally, Angela’s trained intact boards and
+teams on how to build thought leadership and become social ambassadors as well as several thousand professionals on hot topics such as “How to” Facebook, LinkedIn, Twitter, Instagram and “Unleashing Your SuperPowers with Video”.
+
+<p>Angela is a highly sought-after speaker who was recently featured on Chronicle\’s, WCVB TV social media segment, has spoken at the Massachusetts Conference for
+Women, CWE Women’s Business Leaders Conference and General Assembly to name a few. She’s been invited to guest lecture at Babson, Bentley, UMass Boston among
+other universities.
+
+<p>Previously, Angela spent 20+ years in high-tech and brings extensive experience leading global teams and products to the market. She holds an M.S. in Administration and B.S. in Computer Engineering.
+
+<p>Follow her on twitter: <a href="https://twitter.com/angelapitter" target="_blank">@angelapitter</a>'
+  thumbnailUrl: AngelaPitter.jpg
   rockstar: false
   social: 
+    - {name: "twitter", link: "https://twitter.com/angelapitter"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/angelapitter/"}
+    - {name: "facebook", link: "https://www.facebook.com/angelapitterspeaks"}
+    - {name: "instagram", link: "https://www.instagram.com/livewirecollaborative/"}
 - 
   id: 11
-  name: "Dr. Brandi"
-  surname: "Baldwin"
-  company: "Founder and CEO, Millennial Ventures Holdings"
-  title: "Longer title for role/company; can have additional roles and organiations you might be part of"
-  bio: "Bio goes here."
-  thumbnailUrl: NP.jpg
+  name: "Dr."
+  surname: "Brandi"
+  company: "Founder & CEO, Millennial Ventures Holdings"
+  title: "Founder & CEO, Millennial Ventures Holdings"
+  bio: "Dr. Brandi M. Baldwin is a psychology and business professor turned entrepreneur who is a thought leader and author tackling the world''s most relevant business challenges: diversity and inclusion, motivating millennials to level-up their leadership, and advocating for equity in all levels of business. As the CEO of Millennial Ventures Holdings and a respected Wharton Lecturer, Dr. Brandi is the host of the ''Diversity and Confusion'' podcast. She is the founding visionary for Calling All Allies (CAA), an innovative initiative that empowers organizations to address racial inequality by making necessary, positive change in the areas where culture and climate intersect with Diversity, Equity & Inclusion (DEI).
+
+<p>Dr. Brandi is a published author and speaks at over 40 conferences and companies annually. She is tapped by companies such as Comcast, Discover, and the Federal Government to share her unconventional insights on leadership, diversity and inclusion, and business. Her noteworthy accomplishments include being appointed to Philadelphia Mayor Jim Kenney''s Millennial Advisory Commission, being named one of Philadelphia''s Most Influential African Americans, receiving Philadelphia Business Journal''s 40 Under 40 award, the Diversity and Inclusion Outstanding Ally honor from the Philadelphia Inquirer, and the ''Take the Lead'' award from the Girl Scouts. Dr. Brandi earned her doctorate in Educational Leadership & Policy Studies from Temple University and holds a Masters degree in Adult & Organizational Development. 
+ 
+<p>Dr. Brandi is the author of ''Put in Work: Gain Respect, Influence Others, and Get Results as a New Leader'', and ''Authentic Ally: A Guilt-Free Guide to Becoming an Ally for Racial Equity''.
+ 
+She is a mother of two and attributes her Christian faith for keeping her focused, grounded, and committed to excellence in all that she does. Although her worldly accomplishments are noteworthy, Dr. Brandi believes that she was put on this earth to impact, not to impress.
+"
+  thumbnailUrl: DrBrandi.jpg
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/thedoctorbrandi/"}

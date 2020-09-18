@@ -21,8 +21,6 @@
   ribbon: 
     - {abbr: "Role", title: "Event Organizer"}
   social: 
-    - {name: "github", link: "https://github.com"}
-    - {name: "site", link: "https://www.codeforboston.org/"}
 
 #- 
 #  id: 2
