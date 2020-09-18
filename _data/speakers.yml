@@ -132,7 +132,8 @@ other universities.
 <p>Follow her on twitter: <a href="https://twitter.com/angelapitter" target="_blank">@angelapitter</a>'
   thumbnailUrl: AngelaPitter.jpg
   rockstar: false
-  social: 
+  social:
+    - {name: "site", link: "https://livewirecollaborative.com/"}
     - {name: "twitter", link: "https://twitter.com/angelapitter"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/angelapitter/"}
     - {name: "facebook", link: "https://www.facebook.com/angelapitterspeaks"}
@@ -154,4 +155,8 @@ She is a mother of two and attributes her Christian faith for keeping her focuse
   thumbnailUrl: DrBrandi.jpg
   rockstar: false
   social: 
+    - {name: "site", link: "https://www.doctorbrandi.com/"}
+    - {name: "site", link: "https://www.millennialventures.co/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/thedoctorbrandi/"}
+    - {name: "twitter", link: "https://www.twitter.com/thedoctorbrandi"}
+    - {name: "instagram", link: "https://www.instagram.com/thedoctorbrandi"}
