@@ -1,16 +1,20 @@
 - 
   group: "Platinum"
   elements: 
-    - {name: "Code for Boston", description: "Code for Boston - a volunteer Civic Technology meetup using creative technology to solve civic and social problems.", link: "https://www.codeforboston.org/", imageUrl: "codeforboston.png"}
+ #   - {name: "Code for Boston", description: "Code for Boston - a volunteer Civic Technology meetup using creative technology to solve civic and social problems.", link: "https://www.codeforboston.org/", imageUrl: "codeforboston.png"}
 - 
   group: "Gold"
   elements: 
-    - {name: "Code for Boston", description: "Code for Boston - a volunteer Civic Technology meetup using creative technology to solve civic and social problems.", link: "https://www.codeforboston.org/", imageUrl: "codeforboston.png"}
+#    - {name: "Code for Boston", description: "Code for Boston - a volunteer Civic Technology meetup using creative technology to solve civic and social problems.", link: "https://www.codeforboston.org/", imageUrl: "codeforboston.png"}
 - 
   group: "Silver"
   elements: 
-    - {name: "Code for Boston", description: "Code for Boston - a volunteer Civic Technology meetup using creative technology to solve civic and social problems.", link: "https://www.codeforboston.org/", imageUrl: "codeforboston.png"}
+#    - {name: "Code for Boston", description: "Code for Boston - a volunteer Civic Technology meetup using creative technology to solve civic and social problems.", link: "https://www.codeforboston.org/", imageUrl: "codeforboston.png"}
 - 
   group: "Bronze"
   elements: 
-    - {name: "Code for Boston", description: "Code for Boston - a volunteer Civic Technology meetup using creative technology to solve civic and social problems.", imageUrl: "codeforboston.png"}
+#    - {name: "Code for Boston", description: "Code for Boston - a volunteer Civic Technology meetup using creative technology to solve civic and social problems.", imageUrl: "codeforboston.png"}
+- 
+  group: "In-Kind"
+  elements: 
+    - {name: "Gatherly", description: "Host engaging online events with Gatherly, a digital space for attendees to mingle in smaller huddles while staying connected to the larger group.", imageUrl: "Gatherly.png"}
