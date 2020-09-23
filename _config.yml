@@ -63,7 +63,7 @@ typeoutFallback: "Talent"
 heroButtons:
  - {link: "https://forms.gle/5j7HFvsTEPQAcbc86", text: "Become a Workshop Presenter or Volunteer"}
  - {link: "/assets/The405Found_Sponsorship.pdf", text: "Sponsor Event"}
- - {link: "http://www.eventbrite.com", text: "Register to Attend"}
+ - {link: "https://www.eventbrite.com/e/122301315527", text: "Register to Attend"}
 
 # About Block
 aboutTitle: "About The 405 Found"
