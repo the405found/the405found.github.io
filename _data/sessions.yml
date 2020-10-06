@@ -26,12 +26,12 @@
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Networking for Introverts"
-  description: "TBD"
-  subtype: workshop
+  title: "Connecting The Dots: A Practical Guide To Networking"
+  description: "For many of us, networking is a necessary evil of life. This interactive workshop will help participants redesign the worst parts of networking and reframe their networking activities into making connections. Through activities and engaging discussions, we will co-create some powerful and practical tips to help us network less, and connect more! To my fellow introverts, this session is for you!"
+  subtype: presentation
   speakers: [9]
 #  presentation: "https://chocolatemilkdiplomacy.com/uploads/1/3/1/7/131752130/cmd_career_research_packet.pdf"
-#  video: "//www.youtube.com/embed/rPgV_m4IsJ8"
+  video: "//www.youtube.com/watch?v=i0voT_iTt7M&t=1s"
 -
   id: 003
   title: "5 Ways to PowerUp Your Brand with LinkedIn"

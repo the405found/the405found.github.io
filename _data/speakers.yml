@@ -2,13 +2,15 @@
   id: 3
   name: "Rizel"
   surname: "Bobb-Semple"
-  company: "Software Developer, Hi Marley"
-  title: "Software Developer at Hi Marley"
-  bio: "TBD"
-  thumbnailUrl: NP.jpg
+  company: "Software Engineer at Hi Marley<br> Executive Lead at G|Code House"
+  title: "Software Engineer at Hi Marley and Executive Lead at G|Code House"
+  bio: "Rizel is currently a software engineer at Hi Marley Inc, the creator of the 1st intelligent conversation platform specifically made for the insurance industry. She has extensive Boston-startup experience across a variety of departments, including marketing, engineering, IT, and business analytics. She's a graduate of Resilient Coders, a transformative coding bootcamp for young people of color, and recently completed her Bachelor's Degree in Computer Science from Boston University. She's also been selected for numerous leadership building programs, including a Hack.Diversity Fellowship. Grateful for her experience in these programs, Rizel has decided to give back by sitting on the Leadership Team at G|Code and on the Alumni Leadership Council at Hack Diversity."
+  thumbnailUrl: RizelBobbSemple.png
   rockstar: true
   social: 
+    - {name: "twitter", link: "https://twitter.com/RizelBobb"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/rizel-bobb-semple/"}
+    - {name: "site", link: "https://www.blackgirlbytes.com/"}
 - 
   id: 4
   name: "Gwendolyn"
