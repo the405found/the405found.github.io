@@ -1,130 +1,76 @@
-# Project Zeppelin / GDG DevFest 2014 site template
+# Welcome to The 405 Found!
 
-### About
-Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes.
-
-Project is built on top of [Jekyll](http://jekyllrb.com/) - simple, blog-aware, static site generator. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your website from GitHub’s servers for free. [Learn more about Jekyll](http://jekyllrb.com/).
-
-Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
-
-### Live demo http://gdg-x.github.io/zeppelin/
-
-#### Automated version with Grunt <https://github.com/gdg-x/zeppelin-grunt>
-
-### Features
-* Easy to setup
-* Simple and responsive design
-* Integrated speakers and sessions management
-* SVG icons
-* SEO friendly
+Hi! I'm a markdown file with helpful resources for your career in tech. Please feel free to add to and edit me. You can make open source contributions here by checking that links are still active.
 
 
-### Quick-start guide
-1. [Fork](https://github.com/gdg-x/zeppelin/fork) this repo
-2. Clone locally
-3. Update ```_config.yml```
-4. Select what content blocks do you need
-5. Push changes to ```gh-pages``` branch
-6. Enjoy your awesome DevFest site at ```http://[your github name].github.io/zeppelin/```
+## Learning and Skill Building
 
-Or watch project presentation from [GDG[x] Townhall meeting](http://www.youtube.com/watch?v=xYmhheoLjcI). Slides available [here](https://docs.google.com/presentation/d/19aM7yNl_orDaCNND5LpCY3fShb6PyMltnzYfKvV8R_8/edit?usp=sharing)
+### A Mix of Everything
 
+[SkillTube](https://skilltube.netlify.app/index.html) - A curated list of best courses from YouTube and other platforms (Last checked: 10/2020) 
 
-## Local development
+[The Coding Train](https://www.youtube.com/c/TheCodingTrain/featured) - Creative coding video tutorials on subjects ranging from the basics of programming languages like JavaScript to algorithmic art, machine learning, simulation, generative poetry, and more (Last checked: 10/2020)
 
-Check if you have [all requirements for local environment](http://jekyllrb.com/docs/installation/).
-To install all development dependencies install [Bundler](http://bundler.io/).
-```bash
-    gem install bundler
-```
-and run next command from root folder:
+[Learn Code from Us](https://learncodefrom.us/) - a site listing people who are members of underrepresented groups in tech and create resources (e.g. podcasts, blog posts, newsletters, YouTube videos) geared towards programmers of all levels (Last checked: 10/2020)
 
-```bash
-  bundle install
-```  
+[https://projects.raspberrypi.org/en](https://projects.raspberrypi.org/en) - offers projects to program games, websites, robots and more that will help you start writing code and get going with digital making (Last checked: 10/2020)
 
-To start Jekyll run:
-```bash
-    bundle exec jekyll serve -w
-```
-Site will be available at http://127.0.0.1:4000/zeppelin/ or http://localhost:4000/zeppelin/ (on Windows)
+### Training Providers
 
-**NOTE:** in this mode all changes to html and data files will be automatically regenerated, but after changing ```_config.yml``` you have to restart server.
+[Hack.Diversity](https://hackdiversity.com/) - recruits Black and Latinx students pursuing careers in software engineering, data analytics, information technology, and UX/UI design into the Boston’s fastest-growing companies (Last checked: 10/2020)
 
-### Sass(Compass) support
-**Note:** You need to install [Node.js](http://nodejs.org/download/)
+[Per Scholas](https://perscholas.org/locations/greater-boston/) - offers free hands-on technology training in cloud, cybersecurity, IT, and software engineering to students in Greater Boston area
 
-To watch changes of `.sass` files and compile it to the `.css` on a fly change property `safe: true` to `safe: false` in `_config.yml`.
-**Note: It works only on local machine, because GitHub runs Jekyll in `--save` [mode](https://help.github.com/articles/using-jekyll-with-pages/#configuration-overrides)**
+[CodeSquad](http://codesquad.org/) - a training program for talented, low-income adults, particularly people of color, to become full-stack web developers
 
-Learn more about Sass development from [documentation](https://github.com/gdg-x/zeppelin/wiki/Sass-development).
+### Courses
+
+[edX](https://www.edx.org/) - courses for curious minds on topics ranging from data and computer science to leadership and communications (Last checked: 10/2020)
+
+[Khan Academy](https://www.khanacademy.org/) - offers practice exercises, instructional videos, and a personalized learning dashboard that empower learners to study at their own pace in and outside of the classroom (Last checked: 10/2020)
+
+## Communities
+
+[LGBTQ in Technology](https://lgbtq.technology/) - provides a safe, positive, and confidential space for LGBTQ people in technology to chat and support each other in Slack (Last checked: 10/2020)
 
 
-### Resource optimizations (optional)
+## Newsletters
 
-You can optimize images and minify css and javascript automatically (for now only on Windows).
-But for Mac OS users available amazing tool - [imageoptim](https://imageoptim.com/). Thanks [@raphaelsavina](https://github.com/raphaelsavina) for link.
-Optimize all images by running this script from `/automation/images/` folder:
-```bash
-    all_image_optimization.bat -d -jtran -pout -pquant -optip -gsicle -svgo
-```
+[Diversify Tech](https://www.diversifytech.co/) - a weekly collection of resources (e.g. scholarships, events, job opportunities) for underrepresented people in tech (Last checked: 10/2020)
 
-To minify CSS and JS run `minify_js.bat` (for Windows) and `minify_js.sh` (for Linux and MacOS) from `/automation/minifying/` folder:
-```bash
-    minify_js.bat
-```
+[The Tech Two X](https://techtwox.com/join-our-newsletter/) - positive, real stories from inspiring women in tech (Last checked: 10/2020)
 
-Learn more about available optimization options from [documentation](https://github.com/gdg-x/zeppelin/wiki/Resources-optimizations).
+[Weekly Rendezvous](https://cassidoo.co/newsletter/) - what’s new in web development, an interview question of the week, and jokes (Last checked: 10/2020)
 
-### Documentation
-Quick-start guide is not enough? Checkout [full documentation](https://github.com/gdg-x/zeppelin/wiki).
+## Podcasts
 
-### Used libraries
-* [Bootstrap](https://github.com/twbs/bootstrap)
-* [Animate.css](https://github.com/daneden/animate.css)
-* [Waves](https://github.com/publicis-indonesia/Waves)
-* [jquery.appear](https://github.com/bas2k/jquery.appear)
-* [jQuery countTo Plugin](https://github.com/mhuggins/jquery-countTo)
-* [Typed.js](https://github.com/mattboldt/typed.js)
-* [Sticky-kit](https://github.com/leafo/sticky-kit)
+[Ladybug.dev](https://www.ladybug.dev/) - Tech podcast with episodes on web development, tech sphere, interview tips, book club, and more (Last checked: 10/2020)
 
-### Who is using template?
-Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.org.ua*](mailto:lviv@gdg.org.ua) so we can include you to this list, or make a pull request.
 
-| | | |
-|------|------|------|
-| [GDG DevFest Ukraine 2014](http://devfest.gdg.org.ua/) | [GDG DevFest Istanbul 2014](http://2014.devfesttr.com/) | [GDG Bangalore Site](http://gdgbangalore.github.io/) |
-| [GDG DevFest Omsk 2014](http://gdg-devfest-omsk.org/) | [2014 南阳 GDG Devfest 大会](http://devfest.gdgny.org) | [DevFest Nordeste 2014](http://2014.devfestne.com.br/) |
-| [GDG DevFest The Netherlands](http://www.devfest.nl/) | [DevFest Centro-Oeste 2014](http://www.devfestcentrooeste.com.br/) | [Android DevFest Space Coast](http://gdg-space-coast.github.io/zeppelin/) |
-| [DevFest SP 2014](http://sp.devfest.com.br/) | [DevFest in Baroda](http://devfest.gdgbaroda.com/) | [GDG Hi Pic (France)](http://maximemularz.github.io/zeppelin/) |
-| [GDG DevFest Córdoba 2014](http://gdgcordoba.github.io/zeppelin/) | [GDG DevFest Düsseldorf 2014](http://www.gdg-dus.de/DevFest2014/) | [GDG Makerere DevFest 2014](http://gdgmakerere.github.io/) |
-| [GDG Dublin DevFest 2014](http://gdg-dublin.appspot.com/) | [GDG Busitema DevFest 2014](http://gdgbusitema.github.io/) | [DevFest Vienna 2014](http://www.devfest.at/) |
-| [Android Wear DevFest](http://devfest.gdgnorthjersey.com/wear2014/) | [GDG SLAU DevFest 2014](http://gdgslau.github.io/) | [Lima DevFest](http://limadevfest.com/) |
-| [GDG Korea DevFair 2014](http://devfair2014.gdg.kr/) | [GDG DevFest Kota Kinabalu 2014](http://devfest.gdgkk.info/) | [GDG DevFest Belgium](http://gdg-brussels.org/DevFest2014/) |
-| [DevFest Praha 2014](http://devfest.cz/) | [GDG DevFest Kosice](http://devfest.sk/) | [GDG DevFest Cagayan de Oro](http://devfest.gdgcdo.org/) |
-| [DevFest Birgunj](http://gdgbirgunj.github.io/DevFest2014/) | [GDG DevFest Poland](http://devfest.pl/) | [GDG DevFest Silicon Valley](http://devfest2014.gdgsv.com/) |
-| [DevFest Chennai 2014](http://devfest.gdgchennai.com/) | [GDG DevFest Bari](http://gdgbari.github.io/zeppelin/) | [GDG DevFest Ahmedabad](http://devfest.gdgahmedabad.com/) |
-| [GDG DevFest Sri Lanka](http://www.devfestlk.org/) | [GDG DevFest Tunis](http://devfest.gdgtunis.org/) | [GDG DevFest Kozhikode](http://devfest.gdgkozhikode.org/) |
-| [GDG DevFest Argentina](http://devfest.gdg.com.ar/) | [GDG DevFest Bhubaneswar](http://devfest2014.gdgbbsr.com/) | [GDG DevFest Miage Gi](http://gdgmiagegilab.github.io/) |
-| [GDG DevFest NORTE](http://norte.devfest.com.br/) | [GDG Devfest Nyeri 2014](http://devfest.gdgkimathiuniversity.com/) | [GDG DevFest Paris](http://devfest.gdgparis.com/) |
-| [GDG Akure](http://gdgakure.github.io/)|[MENAT GDG Summit 2014](http://summit.gdg-menat.com/)|[Women Techmakers Istanbul 2015](http://2015.wtmistanbul.com) |
-| [GDG DevFest Mallorca](http://devfest.gdgmallorca.com/)| [Michigan GDG DevFest 2015](http://michigandevfest.com/) | [International Women's Day](http://iwd.gdgnorthjersey.com/womeninnovation/) |
-| [Women Techmakers Tbilisi 2015](http://womentechmakers.ge/) | [Android Xtended](http://www.androidxtended.com/) |[GDG Bingham University](http://binghamuni.edu.ng/gdg)|
-| [JSday Maceio 2015](http://jsday.com.br) | [DevFest Nordeste 2015](http://2015.devfestne.com.br) | [GDG DevFest Vijayawada 2015](http://devfest.gdg-vijayawada.org) |
-| [Geek Night Recife](http://geeknightrecife.github.io/) | [IO Extended 2016 Madrid ](http://io.gdg.es/) | [AngularCamp](http://angularcamp.org/) |
-| [Mobile Era 2016](http://mobileera.rocks/) | [GDG Francisco Beltrão](http://gdg-fb.github.io) | [Women Techmakers Istanbul 2016](http://2016.wtmistanbul.com) |
-| [Droidcon Paris 2015](http://droidcon.fr) | [Android Makers Paris 2017](http://androidmakers.fr) | [Heidelberger Symposium 2017](https://heidelberger-symposium.de/) |
-| [DevFest Foumban website](http://devfestfoumban.org) | [NorthSec 2018](https://nsec.io/) | [SwiftFest 2018](http://swiftfest.io) |
-| [LASCAR Workshop](http://lascar.sda.tech/) | [Core C++ 2019](https://corecpp.org/) | [RootedCON](https://www.rootedcon.com)|
-| [Droidcon Vietnam 2018](https://droidconvn.com) | | |
+## Tech Vloggers
 
-### Contributors
-* Design and web development: [Oleh Zasadnyy](https://github.com/ozasadnyy)
-* Idea: [Vitaliy Zasadnyy](https://github.com/zasadnyy)
+[The Come Up](https://www.youtube.com/channel/UC-bFgwL_kFKLZA60AiB-CCQ) - Coming from non-traditional tech background, Bukola has great tips on successfully breaking into the tech industry! (Last checked: 10/2020)
 
-See [list of contributors](https://github.com/gdg-x/zepplin/graphs/contributors)
+[Mayuko](https://www.youtube.com/user/hellomayuko) - Mayuko's mission is to help aspiring Software Engineers find their way through the tech industry (Last checked: 10/2020)
 
-Maintainers: [@tasomaniac](https://github.com/tasomaniac) and [@ozasadnyy](https://github.com/ozasadnyy).
+[Almeezyuh](https://www.youtube.com/c/almeezyuh) -  Almeezyuh makes videos about the latest tech, coding tutorials, and life as a software developer (Last checked: 10/2020)
 
-### License
-Project is published under the [MIT license](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
+## Job Search Support
+
+### Interview Prep
+
+[LeetCode](https://leetcode.com/) - enhance your skills, expand your knowledge and prepare for technical interviews (Last checked: 10/2020)
+
+[Back to Back SWE](https://www.youtube.com/c/BackToBackSWE/featured) - programming interview preparation on YouTube (Last checked: 10/2020)
+
+[Technical Interviewing 101](https://learntocodewith.me/posts/technical-interview/) - blog post on Learn To Code With Me
+
+### Negotiation
+
+[AAUW Worksmart in Boston](https://www.boston.gov/departments/womens-advancement/aauw-work-smart-boston) - free salary negotiation workshops for women
+
+#### Company and Salary Research
+* [Glassdoor](https://www.glassdoor.com/)
+* [salary.com](https://www.salary.com/)
+* [payscale.com](https://www.payscale.com/)
+
